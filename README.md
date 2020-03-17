@@ -1,0 +1,2 @@
+# prediksi-curah-hujan-bms
+This is my bachelor's thesis about predicting daily rainfall  in Banyumas regency, Indonesia. I'm using deep learning for this project. It's far from perfect, there's still many room for improvement. To run the project, you need Jupyter Notebook installed. Usually, by installing Anaconda Navigator it already comes with the package. Libraries that needs to be installed are Keras. I use Python version 3.7.3 so if there's error probably because different Python version. 
